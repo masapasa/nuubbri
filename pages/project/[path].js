@@ -33,7 +33,7 @@ function Project({ project, path }) {
       </aside>
       <main>
         <div className="card-big">
-          <Icon w={249} h={278} />
+          <Icon w={24} h={27} />
           <div className="stats">
             <div className="stats-details">
               <div>

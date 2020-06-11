@@ -10,6 +10,7 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css?family=PT+Sans:300,400,700,800"
             rel="stylesheet"
           />
+          <script data-ad-client="ca-pub-5827971423225899" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         </Head>
         <body>
           <Main />
